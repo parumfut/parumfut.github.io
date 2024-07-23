@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://parumfut.github.io/sitemap
+Sitemap: https://parumfut.github.io/app/sitemap
+Sitemap: https://parumfut.github.io/assets/sitemap
+Sitemap: https://parumfut.github.io/css/sitemap
+Sitemap: https://parumfut.github.io/includes/sitemap
+Sitemap: https://parumfut.github.io/item/sitemap
+Sitemap: https://parumfut.github.io/src/sitemap
